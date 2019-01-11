@@ -9,3 +9,6 @@ ETV
 Bagmane
 Laptop
 wellsfargo
+Monitor
+server
+tower1
